@@ -296,10 +296,6 @@
 
 ---
 
-
-
----
-
 # ⚡ Fun Fact
 
 💡 I enjoy transforming real-world problems into scalable and user-friendly applications using modern technologies and AI integrations.
