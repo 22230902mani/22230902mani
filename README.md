@@ -355,7 +355,7 @@ Interactive learning platform with modern UI and responsive design.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/22230902mani/22230902mani/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
