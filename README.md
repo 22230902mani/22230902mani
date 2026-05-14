@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=250&section=header&text=Manikanta%20Lukka&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:00F5FF,100:FF4ECD&height=280&section=header&text=Manikanta%20Lukka&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20Developer&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+%26+AI+Developer+🚀;React+%7C+Node+%7C+PHP+Developer;DSA+Problem+Solver+💡;Building+Creative+Web+Applications;Passionate+About+Modern+UI%2FUX;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🤖+AI+Enthusiast;💡+DSA+Problem+Solver;⚡+Building+Modern+Web+Apps;🎨+UI%2FUX+Lover" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=22230902mani&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=22230902mani&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square"/>
 
 <br/><br/>
 
@@ -36,31 +36,31 @@
 <div align="left">
 
 <a href="https://github.com/22230902mani" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/manikanta-lukka" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="mailto:manilukka143@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF4ECD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Manikanta_2223/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/manilukka143" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-00F5FF?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
 <a href="https://www.hackerearth.com/@manilukka143" target="_blank">
-<img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HackerEarth-FF4ECD?style=for-the-badge"/>
 </a>
 
 <a href="https://22230902mani.github.io/MY_PORTFOLIO/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 </div>
@@ -72,19 +72,19 @@
 <div align="left">
 
 <a href="https://www.instagram.com/mani_kanta_lukka_18/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-FF4ECD?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/mani.lukka99" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-00F5FF?style=for-the-badge&logo=facebook&logoColor=black"/>
 </a>
 
 <a href="https://x.com/LukkaMani36851" target="_blank">
-<img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitter/X-8B5CF6?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-FF4ECD?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </div>
@@ -93,7 +93,7 @@
 
 <td width="40%">
 
-<img align="right" alt="coding" width="100%" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="coding" width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 </td>
 </tr>
@@ -106,7 +106,7 @@
 <div align="center">
 
 <a href="https://22230902mani.github.io/MY_PORTFOLIO/">
-<img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -139,7 +139,7 @@
 
 <img src="https://leetcard.jacoblin.cool/Manikanta_2223?theme=dark&font=Nunito&ext=heatmap" width="48%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=22230902mani&theme=radical&no-frame=true&row=1&column=5" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=22230902mani&theme=algolia&no-frame=true&row=1&column=5" width="48%" />
 
 </div>
 
@@ -157,17 +157,17 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=22230902mani&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=22230902mani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22230902mani&layout=compact&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=22230902mani&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22230902mani&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=22230902mani&theme=react-dark&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=22230902mani&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=22230902mani&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -192,11 +192,11 @@
 `React` `Node.js` `MongoDB` `Express`
 
 <a href="https://inventory-management-system-sigma-eight.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-8B5CF6?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/22230902mani/AI-Inventory-Management-System">
-<img src="https://img.shields.io/badge/💻_GITHUB_REPO-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_GITHUB_REPO-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 ---
@@ -216,11 +216,11 @@ Modern healthcare management platform with appointments and billing.
 `PHP` `MySQL` `JavaScript` `Bootstrap`
 
 <a href="https://22230902mani.github.io/HEALTHCARE_MANAGEMENT-/">
-<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-8B5CF6?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/22230902mani/HEALTHCARE_MANAGEMENT">
-<img src="https://img.shields.io/badge/💻_GITHUB_REPO-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_GITHUB_REPO-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 ---
@@ -240,11 +240,11 @@ Smart agriculture marketplace with crop insights and chatbot support.
 `HTML` `CSS` `JavaScript` `PHP`
 
 <a href="https://22230902mani.github.io/Horticultural-E-commerce/">
-<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-8B5CF6?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/22230902mani/Horticultural-E-commerce">
-<img src="https://img.shields.io/badge/💻_GITHUB_REPO-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_GITHUB_REPO-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 ---
@@ -263,11 +263,11 @@ Interactive learning platform with modern UI and responsive design.
 `React` `Node.js` `MongoDB`
 
 <a href="https://smart-learning-platform-zeta.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-8B5CF6?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/22230902mani/Smart-Learning-Platform">
-<img src="https://img.shields.io/badge/💻_GITHUB_REPO-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_GITHUB_REPO-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 ---
@@ -303,10 +303,10 @@ Interactive learning platform with modern UI and responsive design.
 
 # ⚡ “Code • Create • Innovate • Repeat”
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting+My+Profile+🚀;Let's+Build+Something+Amazing+Together+💻" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=FF4ECD&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+My+Profile+🚀;Let's+Build+Something+Amazing+Together+💻" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00F7FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:00F5FF,100:FF4ECD&height=140&section=footer"/>
 
 </div>
