@@ -1,12 +1,16 @@
 <div align="center">
 
-# 👋 Hey, I'm Manikanta Lukka
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=250&section=header&text=Manikanta%20Lukka&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+%26+AI+Developer+🚀;React+%7C+Node+%7C+PHP+Developer;DSA+Problem+Solver+💡;Building+Creative+Web+Applications;Passionate+About+Modern+UI%2FUX;Always+Learning+New+Technologies" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=22230902mani&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=22230902mani&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750793-4079a13f-391c-46f9-96f0-0f8d7fb1f740.gif" width="100%">
 
 </div>
 
@@ -89,7 +93,7 @@
 
 <td width="40%">
 
-<img align="right" alt="coding" width="100%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="coding" width="100%" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 </td>
 </tr>
@@ -135,7 +139,7 @@
 
 <img src="https://leetcard.jacoblin.cool/Manikanta_2223?theme=dark&font=Nunito&ext=heatmap" width="48%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=22230902mani&theme=tokyonight&no-frame=true&row=1&column=5" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=22230902mani&theme=radical&no-frame=true&row=1&column=5" width="48%" />
 
 </div>
 
@@ -153,17 +157,17 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=22230902mani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=22230902mani&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22230902mani&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=22230902mani&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22230902mani&layout=compact&theme=radical&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=22230902mani&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=22230902mani&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=22230902mani&theme=react-dark&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -171,19 +175,15 @@
 
 # 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
+---
 
 ## 🤖 AI Inventory Management System
 
-### 🔥 Features
-✔ AI Chatbot Integration  
+🚀 AI-powered inventory platform with chatbot integration and analytics dashboard.
+
+### ⚡ Features
 ✔ Real-Time Stock Tracking  
+✔ Gemini AI Chatbot  
 ✔ Invoice Generation  
 ✔ JWT Authentication  
 ✔ Analytics Dashboard  
@@ -192,20 +192,20 @@
 `React` `Node.js` `MongoDB` `Express`
 
 <a href="https://inventory-management-system-sigma-eight.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/22230902mani/Inventory-Management-System">
-<img src="https://img.shields.io/badge/GITHUB_REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/22230902mani/AI-Inventory-Management-System">
+<img src="https://img.shields.io/badge/💻_GITHUB_REPO-181717?style=for-the-badge"/>
 </a>
 
-</td>
-
-<td width="50%">
+---
 
 ## 🏥 Healthcare Management System
 
-### 🔥 Features
+Modern healthcare management platform with appointments and billing.
+
+### ⚡ Features
 ✔ Appointment Booking  
 ✔ Patient Records  
 ✔ Billing System  
@@ -216,24 +216,20 @@
 `PHP` `MySQL` `JavaScript` `Bootstrap`
 
 <a href="https://22230902mani.github.io/HEALTHCARE_MANAGEMENT-/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/22230902mani/HEALTHCARE_MANAGEMENT">
-<img src="https://img.shields.io/badge/GITHUB_REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_GITHUB_REPO-181717?style=for-the-badge"/>
 </a>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+---
 
 ## 🌱 Horticultural E-Commerce
 
-### 🔥 Features
+Smart agriculture marketplace with crop insights and chatbot support.
+
+### ⚡ Features
 ✔ Crop Market Insights  
 ✔ Storage Guidelines  
 ✔ Cart & Checkout  
@@ -244,67 +240,56 @@
 `HTML` `CSS` `JavaScript` `PHP`
 
 <a href="https://22230902mani.github.io/Horticultural-E-commerce/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/22230902mani/Horticultural-E-commerce">
-<img src="https://img.shields.io/badge/GITHUB_REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_GITHUB_REPO-181717?style=for-the-badge"/>
 </a>
 
-</td>
-
-<td width="50%">
+---
 
 ## 📚 Smart Learning Platform
 
-### 🔥 Features
-✔ Online Learning Platform  
-✔ Modern UI/UX  
-✔ Course Management  
+Interactive learning platform with modern UI and responsive design.
+
+### ⚡ Features
 ✔ Interactive Learning  
+✔ Course Management  
+✔ Modern UI/UX  
 ✔ Responsive Design  
 
 ### 🛠 Tech Stack
 `React` `Node.js` `MongoDB`
 
 <a href="https://smart-learning-platform-zeta.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/22230902mani/smart-learning-platform">
-<img src="https://img.shields.io/badge/GITHUB_REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/22230902mani/Smart-Learning-Platform">
+<img src="https://img.shields.io/badge/💻_GITHUB_REPO-181717?style=for-the-badge"/>
 </a>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
 
 ---
 
 # 💼 Other Projects
 
-✅ Job Finder Portal  
+✅ AI Job Finder Portal  
 🔗 https://22230902mani.github.io/JOB_FINDER/
 
 ✅ Spotify Clone  
-✅ Birthday Wishes Website  
+✅ Interactive Birthday Wishes Website  
 ✅ Dice Game using DSA in C++  
 
 ---
 
-
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/22230902mani/22230902mani/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/22230902mani/22230902mani/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-</p>
-
+</div>
 
 ---
 
@@ -314,18 +299,14 @@
 
 ---
 
-# 💻 Developer Quote
-
 <div align="center">
 
-### 🚀 "Turning Ideas Into Real-World Applications Through Code"
+# ⚡ “Code • Create • Innovate • Repeat”
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting+My+Profile+🚀;Let's+Build+Something+Amazing+Together+💻" />
 
----
+<br/><br/>
 
-<div align="center">
-
-## ⭐ Thanks For Visiting My Profile ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00F7FF&height=120&section=footer"/>
 
 </div>
