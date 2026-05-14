@@ -296,6 +296,18 @@
 
 ---
 
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/22230902mani/22230902mani/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+
+---
+
 # ⚡ Fun Fact
 
 💡 I enjoy transforming real-world problems into scalable and user-friendly applications using modern technologies and AI integrations.
