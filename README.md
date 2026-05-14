@@ -36,31 +36,31 @@
 <div align="center">
 
 <a href="https://github.com/22230902mani" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=red"/>
 </a>
 
 <a href="https://linkedin.com/in/manikanta-lukka" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=red"/>
 </a>
 
 <a href="mailto:manilukka143@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
 
 <a href="https://leetcode.com/u/Manikanta_2223/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-6366F1?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=red"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/manilukka143" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-6366F1?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=hackerrank&logoColor=red"/>
 </a>
 
 <a href="https://www.hackerearth.com/@manilukka143" target="_blank">
-<img src="https://img.shields.io/badge/HackerEarth-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HackerEarth-111111?style=for-the-badge&logo=hackerearth&logoColor=red"/>
 </a>
 
 <a href="https://22230902mani.github.io/MY_PORTFOLIO/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=red"/>
 </a>
 
 </div>
@@ -72,43 +72,19 @@
 <div align="center">
 
 <a href="https://www.instagram.com/mani_kanta_lukka_18/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-6366F1?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=red"/>
 </a>
 
 <a href="https://www.facebook.com/mani.lukka99" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-6366F1?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=red"/>
 </a>
 
 <a href="https://x.com/LukkaMani36851" target="_blank">
-<img src="https://img.shields.io/badge/Twitter/X-6366F1?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitter/X-111111?style=for-the-badge&logo=x&logoColor=red"/>
 </a>
 
 <a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-6366F1?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 📱 Social Media
-
-<div align="left">
-
-<a href="https://www.instagram.com/mani_kanta_lukka_18/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-FF4ECD?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/mani.lukka99" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-00F5FF?style=for-the-badge&logo=facebook&logoColor=black"/>
-</a>
-
-<a href="https://x.com/LukkaMani36851" target="_blank">
-<img src="https://img.shields.io/badge/Twitter/X-8B5CF6?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF4ECD?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=red"/>
 </a>
 
 </div>
