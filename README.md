@@ -66,27 +66,27 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 <td width="33%" valign="top" bgcolor="#161B22" align="center" style="padding: 25px;">
 
 <h3>💼 Professional</h3>
-<a href="https://github.com/22230902mani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a><br/><br/>
-<a href="https://linkedin.com/in/manikanta-lukka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br/><br/>
-<a href="mailto:manilukka143@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/><br/>
-<a href="https://22230902mani.github.io/MY_PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://github.com/22230902mani"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" height="50" alt="GitHub"/></a><br/><br/>
+<a href="https://linkedin.com/in/manikanta-lukka"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" alt="LinkedIn"/></a><br/><br/>
+<a href="mailto:manilukka143@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50" alt="Gmail"/></a><br/><br/>
+<a href="https://22230902mani.github.io/MY_PORTFOLIO/"><img src="https://cdn.simpleicons.org/firefox/FF5722" width="50" height="50" alt="Portfolio"/></a>
 
 </td>
 <td width="34%" valign="top" bgcolor="#21262D" align="center" style="padding: 25px;">
 
 <h3>🧑‍💻 Coding</h3>
-<a href="https://leetcode.com/u/Manikanta_2223/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a><br/><br/>
-<a href="https://www.hackerrank.com/profile/manilukka143"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a><br/><br/>
-<a href="https://www.hackerearth.com/@manilukka143"><img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Manikanta_2223/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" height="50" alt="LeetCode"/></a><br/><br/>
+<a href="https://www.hackerrank.com/profile/manilukka143"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="50" height="50" alt="HackerRank"/></a><br/><br/>
+<a href="https://www.hackerearth.com/@manilukka143"><img src="https://cdn.simpleicons.org/hackerearth/323754" width="50" height="50" alt="HackerEarth"/></a>
 
 </td>
 <td width="33%" valign="top" bgcolor="#161B22" align="center" style="padding: 25px;">
 
 <h3>📱 Social</h3>
-<a href="https://www.instagram.com/mani_kanta_lukka_18/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a><br/><br/>
-<a href="https://www.facebook.com/mani.lukka99"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a><br/><br/>
-<a href="https://x.com/LukkaMani36851"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a><br/><br/>
-<a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.instagram.com/mani_kanta_lukka_18/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" height="50" alt="Instagram"/></a><br/><br/>
+<a href="https://www.facebook.com/mani.lukka99"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="50" height="50" alt="Facebook"/></a><br/><br/>
+<a href="https://x.com/LukkaMani36851"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="50" height="50" alt="Twitter/X"/></a><br/><br/>
+<a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="50" height="50" alt="YouTube"/></a>
 
 </td>
 </tr>
