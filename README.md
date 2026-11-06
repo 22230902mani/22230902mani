@@ -66,32 +66,32 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 <td width="50%" valign="top" bgcolor="#161B22">
 
 ### 💼 Professional Platforms
-<a href="https://github.com/22230902mani"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=red"/></a>
-<br/>
-<a href="https://linkedin.com/in/manikanta-lukka"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=red"/></a>
-<br/>
-<a href="mailto:manilukka143@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-<br/>
-<a href="https://22230902mani.github.io/MY_PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=red"/></a>
+<a href="https://github.com/22230902mani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<br/><br/>
+<a href="https://linkedin.com/in/manikanta-lukka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br/><br/>
+<a href="mailto:manilukka143@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br/><br/>
+<a href="https://22230902mani.github.io/MY_PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top" bgcolor="#21262D">
 
 ### 🧑‍💻 Coding Profiles
-<a href="https://leetcode.com/u/Manikanta_2223/"><img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=red"/></a>
-<br/>
-<a href="https://www.hackerrank.com/profile/manilukka143"><img src="https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=hackerrank&logoColor=red"/></a>
-<br/>
-<a href="https://www.hackerearth.com/@manilukka143"><img src="https://img.shields.io/badge/HackerEarth-111111?style=for-the-badge&logo=hackerearth&logoColor=red"/></a>
+<a href="https://leetcode.com/u/Manikanta_2223/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<br/><br/>
+<a href="https://www.hackerrank.com/profile/manilukka143"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<br/><br/>
+<a href="https://www.hackerearth.com/@manilukka143"><img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/></a>
 <br/><br/>
 ### 📱 Social Media
-<a href="https://www.instagram.com/mani_kanta_lukka_18/"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=red"/></a>
-<br/>
-<a href="https://www.facebook.com/mani.lukka99"><img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=red"/></a>
-<br/>
-<a href="https://x.com/LukkaMani36851"><img src="https://img.shields.io/badge/Twitter/X-111111?style=for-the-badge&logo=x&logoColor=red"/></a>
-<br/>
-<a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB"><img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=red"/></a>
+<a href="https://www.instagram.com/mani_kanta_lukka_18/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<br/><br/>
+<a href="https://www.facebook.com/mani.lukka99"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<br/><br/>
+<a href="https://x.com/LukkaMani36851"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<br/><br/>
+<a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -145,7 +145,6 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 <td width="50%" bgcolor="#161B22" valign="top">
 
 ### 🤖 Artificial Intelligence
-<font color="#FFFFFF">
 
 - Gemini API Integrations
 - AI-Powered Applications
@@ -153,12 +152,10 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 - Prompt Engineering
 - LLM Integrations
 
-</font>
 </td>
 <td width="50%" bgcolor="#21262D" valign="top">
 
 ### 🚀 Full Stack Engineering
-<font color="#FFFFFF">
 
 - MERN Stack Development
 - RESTful API Architecture
@@ -166,14 +163,12 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 - Database Management
 - Backend Optimization
 
-</font>
 </td>
 </tr>
 <tr>
 <td width="50%" bgcolor="#21262D" valign="top">
 
 ### 🧠 Problem Solving
-<font color="#FFFFFF">
 
 - Advanced DSA
 - Competitive Programming
@@ -181,12 +176,10 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 - Data Structures
 - Dynamic Programming
 
-</font>
 </td>
 <td width="50%" bgcolor="#161B22" valign="top">
 
 ### ☁️ Modern Technologies
-<font color="#FFFFFF">
 
 - System Design
 - Cloud Deployment
@@ -194,7 +187,6 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 - CI/CD Pipelines
 - Docker & Kubernetes
 
-</font>
 </td>
 </tr>
 </table>
