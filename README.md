@@ -20,9 +20,9 @@
 <h1>👨‍💻 ABOUT ME</h1>
 <sub>Building Ideas Into Intelligent Digital Experiences</sub>
 </div>
-<table width="100%" bgcolor="#0D1117">
+<table width="100%" bgcolor="#0D1117" style="width: 100%;">
 <tr>
-<td width="58%" valign="top" bgcolor="#161B22">
+<td width="58%" valign="top" bgcolor="#161B22" style="padding: 20px;">
 
 <h3>🚀 Who Am I?</h3>
 <font color="#FFFFFF">
@@ -40,7 +40,7 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 </font>
 
 </td>
-<td width="42%" valign="top" bgcolor="#21262D" align="center">
+<td width="42%" valign="top" bgcolor="#21262D" align="center" style="padding: 20px;">
 
 <h3>⚡ Developer Snapshot</h3>
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%"/>
@@ -61,9 +61,9 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 <h1>🌐 CONNECT WITH ME</h1>
 <sub>Let's Connect, Collaborate & Create Something Amazing!</sub>
 </div>
-<table width="100%" bgcolor="#0D1117">
+<table width="100%" bgcolor="#0D1117" style="width: 100%; border-collapse: collapse;">
 <tr>
-<td width="33%" valign="top" bgcolor="#161B22" align="center">
+<td width="33%" valign="top" bgcolor="#161B22" align="center" style="padding: 25px;">
 
 <h3>💼 Professional</h3>
 <a href="https://github.com/22230902mani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a><br/><br/>
@@ -72,7 +72,7 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 <a href="https://22230902mani.github.io/MY_PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 
 </td>
-<td width="34%" valign="top" bgcolor="#21262D" align="center">
+<td width="34%" valign="top" bgcolor="#21262D" align="center" style="padding: 25px;">
 
 <h3>🧑‍💻 Coding</h3>
 <a href="https://leetcode.com/u/Manikanta_2223/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a><br/><br/>
@@ -80,7 +80,7 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 <a href="https://www.hackerearth.com/@manilukka143"><img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/></a>
 
 </td>
-<td width="33%" valign="top" bgcolor="#161B22" align="center">
+<td width="33%" valign="top" bgcolor="#161B22" align="center" style="padding: 25px;">
 
 <h3>📱 Social</h3>
 <a href="https://www.instagram.com/mani_kanta_lukka_18/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a><br/><br/>
@@ -98,9 +98,9 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 <h1>🧰 TECHNOLOGY ARSENAL</h1>
 <sub>Technologies I Use to Turn Ideas Into Reality</sub>
 </div>
-<table width="100%" bgcolor="#0D1117">
+<table width="100%" bgcolor="#0D1117" style="width: 100%;">
 <tr>
-<td width="50%" bgcolor="#161B22" valign="top">
+<td width="50%" bgcolor="#161B22" valign="top" style="padding: 20px;">
 
 <h3>🌐 Frontend Development</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
@@ -109,7 +109,7 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 <img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
 
 </td>
-<td width="50%" bgcolor="#21262D" valign="top">
+<td width="50%" bgcolor="#21262D" valign="top" style="padding: 20px;">
 
 <h3>🗄️ Databases & Cloud</h3>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
@@ -120,7 +120,7 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 </td>
 </tr>
 <tr>
-<td colspan="2" bgcolor="#161B22" align="center">
+<td colspan="2" bgcolor="#161B22" align="center" style="padding: 20px;">
 
 <h3>💻 Programming Languages</h3>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
@@ -135,9 +135,9 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 <h1>🎯 CURRENTLY EXPLORING</h1>
 <sub>Growing Every Day. Building Every Day.</sub>
 </div>
-<table width="100%" bgcolor="#0D1117">
+<table width="100%" bgcolor="#0D1117" style="width: 100%;">
 <tr>
-<td width="50%" bgcolor="#161B22" valign="top">
+<td width="50%" bgcolor="#161B22" valign="top" style="padding: 20px;">
 
 <h3>🤖 Artificial Intelligence</h3>
 
@@ -148,7 +148,7 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 - LLM Integrations
 
 </td>
-<td width="50%" bgcolor="#21262D" valign="top">
+<td width="50%" bgcolor="#21262D" valign="top" style="padding: 20px;">
 
 <h3>🚀 Full Stack Engineering</h3>
 
@@ -161,7 +161,7 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 </td>
 </tr>
 <tr>
-<td width="50%" bgcolor="#21262D" valign="top">
+<td width="50%" bgcolor="#21262D" valign="top" style="padding: 20px;">
 
 <h3>🧠 Problem Solving</h3>
 
@@ -172,7 +172,7 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 - Dynamic Programming
 
 </td>
-<td width="50%" bgcolor="#161B22" valign="top">
+<td width="50%" bgcolor="#161B22" valign="top" style="padding: 20px;">
 
 <h3>☁️ Modern Technologies</h3>
 
@@ -194,9 +194,9 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 <br/>
 <img src="https://img.shields.io/badge/150%2B-PROBLEMS_SOLVED-8B0000?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </div>
-<table width="100%" bgcolor="#0D1117">
+<table width="100%" bgcolor="#0D1117" style="width: 100%;">
 <tr>
-<td width="55%" bgcolor="#161B22" valign="top" align="center">
+<td width="55%" bgcolor="#161B22" valign="top" align="center" style="padding: 20px;">
 
 <h3>🏆 LeetCode Performance</h3>
 <div align="center" style="background-color: #0d1117; border: 1px solid #8B0000; border-radius: 10px; padding: 20px; width: 95%;">
@@ -222,7 +222,7 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 </div>
 
 </td>
-<td width="45%" bgcolor="#21262D" valign="top" align="center">
+<td width="45%" bgcolor="#21262D" valign="top" align="center" style="padding: 20px;">
 
 <h3>💡 Areas of Practice</h3>
 <font color="#FFFFFF">
@@ -252,9 +252,9 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 <h1>🚀 FEATURED PROJECTS</h1>
 <sub>Turning Real-World Challenges Into Digital Solutions</sub>
 </div>
-<table width="100%" bgcolor="#0D1117">
+<table width="100%" bgcolor="#0D1117" style="width: 100%;">
 <tr>
-<td width="50%" bgcolor="#161B22" valign="top">
+<td width="50%" bgcolor="#161B22" valign="top" style="padding: 20px;">
 
 <h3>🤖 AI Inventory Management</h3>
 <img src="https://img.shields.io/badge/MERN_STACK-8B0000?style=for-the-badge"/>
@@ -283,7 +283,7 @@ An AI-powered inventory platform with intelligent assistance and analytics.
 </div>
 
 </td>
-<td width="50%" bgcolor="#21262D" valign="top">
+<td width="50%" bgcolor="#21262D" valign="top" style="padding: 20px;">
 
 <h3>🏥 Healthcare Management</h3>
 <img src="https://img.shields.io/badge/HEALTHCARE-8B0000?style=for-the-badge"/>
@@ -313,7 +313,7 @@ A modern healthcare platform for appointments, patient records and billing.
 </td>
 </tr>
 <tr>
-<td width="50%" bgcolor="#21262D" valign="top">
+<td width="50%" bgcolor="#21262D" valign="top" style="padding: 20px;">
 
 <h3>🌱 Horticultural E-Commerce</h3>
 <img src="https://img.shields.io/badge/AGRICULTURE_TECH-8B0000?style=for-the-badge"/>
@@ -341,7 +341,7 @@ An agriculture marketplace with crop insights and market information.
 </div>
 
 </td>
-<td width="50%" bgcolor="#161B22" valign="top">
+<td width="50%" bgcolor="#161B22" valign="top" style="padding: 20px;">
 
 <h3>📚 Smart Learning Platform</h3>
 <img src="https://img.shields.io/badge/EDTECH_PLATFORM-8B0000?style=for-the-badge"/>
@@ -378,9 +378,9 @@ An interactive learning platform with a modern digital experience.
 <h1>💼 MORE PROJECTS</h1>
 <sub>Every Project Is Another Step Forward</sub>
 </div>
-<table width="100%" bgcolor="#0D1117">
+<table width="100%" bgcolor="#0D1117" style="width: 100%;">
 <tr>
-<td width="50%" bgcolor="#161B22" valign="top">
+<td width="50%" bgcolor="#161B22" valign="top" style="padding: 20px;">
 
 <h3>💼 AI Job Finder Portal</h3>
 <font color="#FFFFFF">A web-based job discovery platform.</font>
@@ -388,7 +388,7 @@ An interactive learning platform with a modern digital experience.
 <a href="https://22230902mani.github.io/JOB_FINDER/"><img src="https://img.shields.io/badge/VIEW_PROJECT-8B0000?style=for-the-badge"/></a>
 
 </td>
-<td width="50%" bgcolor="#21262D" valign="top">
+<td width="50%" bgcolor="#21262D" valign="top" style="padding: 20px;">
 
 <h3>🎵 Spotify Clone</h3>
 <font color="#FFFFFF">Music streaming inspired web interface with modern UI.</font>
@@ -398,7 +398,7 @@ An interactive learning platform with a modern digital experience.
 </td>
 </tr>
 <tr>
-<td width="50%" bgcolor="#21262D" valign="top">
+<td width="50%" bgcolor="#21262D" valign="top" style="padding: 20px;">
 
 <h3>🎂 Birthday Wishes Website</h3>
 <font color="#FFFFFF">Interactive celebration website with animations and creative design.</font>
@@ -406,7 +406,7 @@ An interactive learning platform with a modern digital experience.
 `HTML` `CSS` `JavaScript`
 
 </td>
-<td width="50%" bgcolor="#161B22" valign="top">
+<td width="50%" bgcolor="#161B22" valign="top" style="padding: 20px;">
 
 <h3>🎲 Dice Game using DSA</h3>
 <font color="#FFFFFF">A simple interactive game developed using C++ and DSA concepts.</font>
@@ -428,9 +428,9 @@ An interactive learning platform with a modern digital experience.
 
 ---
 
-<table width="100%" bgcolor="#0D1117">
+<table width="100%" bgcolor="#0D1117" style="width: 100%;">
 <tr>
-<td width="50%" bgcolor="#161B22" align="center">
+<td width="50%" bgcolor="#161B22" align="center" style="padding: 20px;">
 
 <h3>⚡ Fun Fact</h3>
 <font color="#FFFFFF">
@@ -440,7 +440,7 @@ I enjoy transforming real-world problems into scalable and user-friendly applica
 </font>
 
 </td>
-<td width="50%" bgcolor="#21262D" align="center">
+<td width="50%" bgcolor="#21262D" align="center" style="padding: 20px;">
 
 <h3>🎯 My Developer Mindset</h3>
 <img src="https://img.shields.io/badge/THINK-8B0000?style=for-the-badge"/>
