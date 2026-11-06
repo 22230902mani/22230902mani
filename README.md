@@ -23,34 +23,40 @@
 
 ### Building Ideas Into Intelligent Digital Experiences.
 
+<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_ENTHUSIAST-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROBLEM_SOLVER-8B0000?style=for-the-badge"/>
+
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%" valign="center">
+<td width="65%" valign="middle">
 
-- 🚀 Full Stack & AI Developer from India.
+### 🚀 Who Am I?
+
+- 👨‍💻 Full Stack & AI Developer from India.
 - 🎓 B.Tech Computer Science Engineering Student.
 - 🤖 Passionate about AI-powered applications.
 - 💻 Building scalable and responsive web applications.
-- 🎨 Interested in modern UI/UX and creative designs.
+- 🎨 Love modern UI/UX and futuristic designs.
 - 🧠 Solved 150+ problems on LeetCode.
-- ⚡ Exploring System Design, Cloud & Deployment.
+- ⚡ Exploring System Design and Cloud Deployment.
 
 <br/>
 
-**My Development Philosophy**
+### 💡 My Development Philosophy
 
 > Think creatively. Code intelligently. Build consistently. Never stop learning.
 
 </td>
-<td width="40%" align="center">
+<td width="35%" align="center" valign="middle">
 
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20%26%20AI-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL_STACK_%26_AI-8B0000?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -63,6 +69,8 @@
 # 🌐 CONNECT WITH ME
 
 ### Let's Connect, Collaborate & Create Something Amazing!
+
+<br/>
 
 <a href="https://github.com/22230902mani">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=red"/>
@@ -88,7 +96,7 @@
 
 <br/><br/>
 
-### 📱 FIND ME ON SOCIAL MEDIA
+### 📱 SOCIAL MEDIA
 
 <a href="https://www.instagram.com/mani_kanta_lukka_18/">
 <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=red"/>
@@ -111,80 +119,103 @@
 
 # 🛠️ TECHNOLOGY ARSENAL
 
-### Technologies I Use to Turn Ideas Into Reality
+### My Tools & Technologies
 
-<br/>
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="middle">
 
 ### 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
 
-<br/><br/>
+</td>
+<td width="50%" align="center" valign="middle">
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,firebase"/>
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,c" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python"/>
 
-<br/><br/>
+</td>
+<td width="50%" align="center" valign="middle">
 
 ### 🔧 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux"/>
 
-<br/><br/>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/ALWAYS-LEARNING%20NEW%20TECHNOLOGIES-8B0000?style=for-the-badge"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/ALWAYS-LEARNING_NEW_TECHNOLOGIES-8B0000?style=for-the-badge"/>
 
 </div>
 
 ---
 
+<div align="center">
+
 # 🎯 CURRENTLY EXPLORING
 
-<table>
+### Growing Every Day. Building Every Day.
+
+</div>
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Artificial Intelligence
 
 - Gemini API Integrations
-- AI-powered applications
+- AI-Powered Applications
 - Intelligent Chatbots
+- Prompt Engineering
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚀 Full Stack Engineering
 
 - MERN Stack Development
 - RESTful API Architecture
 - Authentication & Security
+- Database Management
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 Problem Solving
 
 - Advanced DSA
 - Competitive Programming
 - Algorithm Optimization
+- Data Structures
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ☁️ Modern Technologies
 
 - System Design
 - Cloud Deployment
 - DevOps Fundamentals
+- CI/CD Pipelines
 
 </td>
 </tr>
@@ -194,7 +225,7 @@
 
 <div align="center">
 
-# 🧠 DSA & CODING JOURNEY
+# 🧠 DSA & COMPETITIVE PROGRAMMING
 
 ### Consistency Over Perfection. Progress Every Day.
 
@@ -206,17 +237,15 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=22230902mani&theme=algolia&no-frame=true&row=1&column=5" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/150%2B-PROBLEMS%20SOLVED-8B0000?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/150%2B-PROBLEMS_SOLVED-8B0000?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 <br/><br/>
 
-**Topics I'm Practicing**
+### 💡 Areas of Practice
 
 `Arrays` · `Strings` · `Linked Lists` · `Trees` · `Graphs` · `Recursion` · `Dynamic Programming`
-
-<br/>
 
 </div>
 
@@ -248,52 +277,52 @@
 
 ---
 
-# 🚀 FEATURED PROJECTS
-
 <div align="center">
+
+# 🚀 FEATURED PROJECTS
 
 ### Turning Real-World Challenges Into Digital Solutions
 
-<br/>
+<img src="https://img.shields.io/badge/PROJECTS-FULL_STACK_&_AI-8B0000?style=for-the-badge"/>
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 <div align="center">
 
-## 🤖 AI Inventory Management System
+## 🤖 AI Inventory Management
 
-<img src="https://img.shields.io/badge/MERN-STACK-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-POWERED-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN_STACK-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_POWERED-8B0000?style=for-the-badge"/>
 
 </div>
 
-An intelligent inventory platform designed to simplify stock management with AI-powered assistance and analytics.
+An intelligent inventory platform with AI assistance, real-time stock management and analytics.
 
-**✨ Key Features**
+### ✨ Key Features
 
 - 📦 Real-Time Stock Tracking
 - 🤖 Gemini AI Chatbot
-- 🧾 Automated Invoice Generation
+- 🧾 Invoice Generation
 - 🔐 JWT Authentication
 - 📊 Analytics Dashboard
 - 📉 Low Stock Alerts
 
-**🛠 Technologies**
+### 🛠 Tech Stack
 
-`React` `Node.js` `Express` `MongoDB`
+`React` `Node.js` `MongoDB` `Express`
 
 <div align="center">
 
 <a href="https://inventory-management-system-sigma-eight.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-black?style=for-the-badge&logo=vercel&logoColor=red"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=red"/>
 </a>
 
 <a href="https://github.com/22230902mani/AI-Inventory-Management-System">
-<img src="https://img.shields.io/badge/SOURCE_CODE-black?style=for-the-badge&logo=github&logoColor=red"/>
+<img src="https://img.shields.io/badge/GITHUB_REPO-111111?style=for-the-badge&logo=github&logoColor=red"/>
 </a>
 
 </div>
@@ -303,36 +332,36 @@ An intelligent inventory platform designed to simplify stock management with AI-
 
 <div align="center">
 
-## 🏥 Healthcare Management System
+## 🏥 Healthcare Management
 
-<img src="https://img.shields.io/badge/WEB-APPLICATION-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HEALTHCARE-TECH-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HEALTHCARE-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WEB_APPLICATION-8B0000?style=for-the-badge"/>
 
 </div>
 
-A modern healthcare platform that simplifies hospital operations, appointments and patient management.
+A modern healthcare platform for managing appointments, patient information and billing.
 
-**✨ Key Features**
+### ✨ Key Features
 
 - 🩺 Appointment Booking
-- 👨‍⚕️ Doctor & Department Management
+- 👨‍⚕️ Doctor Management
+- 🏥 Department Management
 - 📋 Patient Records
 - 💳 Billing System
 - 🖥️ Admin Dashboard
-- 📱 Responsive Interface
 
-**🛠 Technologies**
+### 🛠 Tech Stack
 
 `PHP` `MySQL` `JavaScript` `Bootstrap`
 
 <div align="center">
 
 <a href="https://22230902mani.github.io/HEALTHCARE_MANAGEMENT-/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-black?style=for-the-badge&logo=vercel&logoColor=red"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=red"/>
 </a>
 
 <a href="https://github.com/22230902mani/HEALTHCARE_MANAGEMENT">
-<img src="https://img.shields.io/badge/SOURCE_CODE-black?style=for-the-badge&logo=github&logoColor=red"/>
+<img src="https://img.shields.io/badge/GITHUB_REPO-111111?style=for-the-badge&logo=github&logoColor=red"/>
 </a>
 
 </div>
@@ -347,33 +376,33 @@ A modern healthcare platform that simplifies hospital operations, appointments a
 
 ## 🌱 Horticultural E-Commerce
 
-<img src="https://img.shields.io/badge/AGRICULTURE-TECH-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/E--COMMERCE-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AGRICULTURE_TECH-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/E_COMMERCE-8B0000?style=for-the-badge"/>
 
 </div>
 
-A smart agriculture marketplace connecting horticultural products with digital market insights and crop information.
+A smart agriculture marketplace with crop insights, market information and storage guidance.
 
-**✨ Key Features**
+### ✨ Key Features
 
 - 🌾 Crop Market Insights
 - 📦 Storage Guidelines
-- 🛒 Shopping Cart & Checkout
+- 🛒 Cart & Checkout
 - 🤖 Chatbot Integration
 - 📱 Responsive UI
 
-**🛠 Technologies**
+### 🛠 Tech Stack
 
 `HTML` `CSS` `JavaScript` `PHP`
 
 <div align="center">
 
 <a href="https://22230902mani.github.io/Horticultural-E-commerce/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-black?style=for-the-badge&logo=vercel&logoColor=red"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=red"/>
 </a>
 
 <a href="https://github.com/22230902mani/Horticultural-E-commerce">
-<img src="https://img.shields.io/badge/SOURCE_CODE-black?style=for-the-badge&logo=github&logoColor=red"/>
+<img src="https://img.shields.io/badge/GITHUB_REPO-111111?style=for-the-badge&logo=github&logoColor=red"/>
 </a>
 
 </div>
@@ -385,33 +414,33 @@ A smart agriculture marketplace connecting horticultural products with digital m
 
 ## 📚 Smart Learning Platform
 
-<img src="https://img.shields.io/badge/EDTECH-PLATFORM-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INTERACTIVE-LEARNING-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDTECH_PLATFORM-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INTERACTIVE_LEARNING-8B0000?style=for-the-badge"/>
 
 </div>
 
-An interactive learning platform designed to provide a modern and engaging digital learning experience.
+An interactive learning platform designed to deliver a modern and engaging digital learning experience.
 
-**✨ Key Features**
+### ✨ Key Features
 
 - 📖 Interactive Learning
 - 🎓 Course Management
 - 🎨 Modern UI/UX
 - 📱 Responsive Design
-- ⚡ Dynamic User Experience
+- ⚡ Dynamic Experience
 
-**🛠 Technologies**
+### 🛠 Tech Stack
 
 `React` `Node.js` `MongoDB`
 
 <div align="center">
 
 <a href="https://smart-learning-platform-zeta.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-black?style=for-the-badge&logo=vercel&logoColor=red"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=red"/>
 </a>
 
 <a href="https://github.com/22230902mani/Smart-Learning-Platform">
-<img src="https://img.shields.io/badge/SOURCE_CODE-black?style=for-the-badge&logo=github&logoColor=red"/>
+<img src="https://img.shields.io/badge/GITHUB_REPO-111111?style=for-the-badge&logo=github&logoColor=red"/>
 </a>
 
 </div>
@@ -422,24 +451,58 @@ An interactive learning platform designed to provide a modern and engaging digit
 
 ---
 
-# 💡 MORE PROJECTS
-
 <div align="center">
 
-| Project | Description |
-|:---|:---|
-| 💼 **AI Job Finder Portal** | AI-oriented job discovery platform |
-| 🎵 **Spotify Clone** | Music streaming inspired web interface |
-| 🎂 **Birthday Wishes Website** | Interactive birthday celebration website |
-| 🎲 **Dice Game** | C++ game implementing DSA concepts |
+# 💼 MORE PROJECTS
 
-<br/>
-
-<a href="https://22230902mani.github.io/JOB_FINDER/">
-<img src="https://img.shields.io/badge/AI_JOB_FINDER-LIVE_DEMO-8B0000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+### More Ideas. More Innovation. More Creations.
 
 </div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="middle">
+
+### 💼 AI Job Finder Portal
+
+AI-oriented job discovery platform.
+
+<a href="https://22230902mani.github.io/JOB_FINDER/">
+<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-8B0000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="middle">
+
+### 🎵 Spotify Clone
+
+Music streaming inspired web interface.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="middle">
+
+### 🎂 Birthday Wishes Website
+
+Interactive birthday celebration website.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="middle">
+
+### 🎲 Dice Game
+
+A C++ game implementing DSA concepts.
+
+`C++` `DSA`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -461,19 +524,19 @@ An interactive learning platform designed to provide a modern and engaging digit
 
 # ⚡ BEYOND THE CODE
 
-### 💡 My Mindset
+### My Mindset
 
 I enjoy transforming real-world problems into scalable and user-friendly applications using modern technologies and AI integrations.
 
 <br/>
 
-<img src="https://img.shields.io/badge/CREATIVITY-FF0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INNOVATION-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CONSISTENCY-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CREATIVITY-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INNOVATION-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CONSISTENCY-8B0000?style=for-the-badge"/>
 
 <br/><br/>
 
-**Explore. Experiment. Execute. Evolve.**
+### Explore. Experiment. Execute. Evolve.
 
 </div>
 
