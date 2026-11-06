@@ -17,23 +17,23 @@
 
 ---
 
-<div align="center">
+<!-- ABOUT ME -->
 
-# 👨‍💻 ABOUT ME
-
-### Building Ideas Into Intelligent Digital Experiences.
-
-<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_ENTHUSIAST-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PROBLEM_SOLVER-8B0000?style=for-the-badge"/>
-
-</div>
-
-<table width="100%">
+<table width="100%" bgcolor="#0D1117">
 <tr>
-<td width="65%" valign="middle">
+<td align="center" bgcolor="#8B0000">
 
-### 🚀 Who Am I?
+<h1><font color="#FFFFFF">👨‍💻 ABOUT ME</font></h1>
+<font color="#FFFFFF">Building Ideas Into Intelligent Digital Experiences</font>
+
+</td>
+</tr>
+<tr>
+<td bgcolor="#161B22">
+
+<h3><font color="#FF3333">🚀 Who Am I?</font></h3>
+
+<font color="#FFFFFF">
 
 - 👨‍💻 Full Stack & AI Developer from India.
 - 🎓 B.Tech Computer Science Engineering Student.
@@ -43,20 +43,11 @@
 - 🧠 Solved 150+ problems on LeetCode.
 - ⚡ Exploring System Design and Cloud Deployment.
 
-<br/>
+</font>
 
-### 💡 My Development Philosophy
+<h3><font color="#FF3333">💡 My Development Philosophy</font></h3>
 
-> Think creatively. Code intelligently. Build consistently. Never stop learning.
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FOCUS-FULL_STACK_%26_AI-8B0000?style=for-the-badge"/>
+<font color="#FFFFFF">Think creatively. Code intelligently. Build consistently. Never stop learning.</font>
 
 </td>
 </tr>
@@ -64,158 +55,151 @@
 
 ---
 
-<div align="center">
+<!-- CONNECT -->
 
-# 🌐 CONNECT WITH ME
+<table width="100%" bgcolor="#0D1117">
+<tr>
+<td align="center" bgcolor="#8B0000">
 
-### Let's Connect, Collaborate & Create Something Amazing!
+<h1><font color="#FFFFFF">🌐 CONNECT WITH ME</font></h1>
+<font color="#FFFFFF">Let's Connect, Collaborate & Create Something Amazing!</font>
+
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#161B22">
 
 <br/>
 
-<a href="https://github.com/22230902mani">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=red"/>
-</a>
-<a href="https://linkedin.com/in/manikanta-lukka">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=red"/>
-</a>
-<a href="mailto:manilukka143@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=red"/>
-</a>
-<a href="https://leetcode.com/u/Manikanta_2223/">
-<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=red"/>
-</a>
-<a href="https://www.hackerrank.com/profile/manilukka143">
-<img src="https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=hackerrank&logoColor=red"/>
-</a>
-<a href="https://www.hackerearth.com/@manilukka143">
-<img src="https://img.shields.io/badge/HackerEarth-111111?style=for-the-badge&logo=hackerearth&logoColor=red"/>
-</a>
-<a href="https://22230902mani.github.io/MY_PORTFOLIO/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=red"/>
-</a>
+<a href="https://github.com/22230902mani"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=red"/></a>
+<a href="https://linkedin.com/in/manikanta-lukka"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=red"/></a>
+<a href="mailto:manilukka143@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+<a href="https://leetcode.com/u/Manikanta_2223/"><img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=red"/></a>
+<a href="https://www.hackerrank.com/profile/manilukka143"><img src="https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=hackerrank&logoColor=red"/></a>
+<a href="https://www.hackerearth.com/@manilukka143"><img src="https://img.shields.io/badge/HackerEarth-111111?style=for-the-badge&logo=hackerearth&logoColor=red"/></a>
+<a href="https://22230902mani.github.io/MY_PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=red"/></a>
 
 <br/><br/>
 
-### 📱 SOCIAL MEDIA
+<h3><font color="#FF3333">📱 SOCIAL MEDIA</font></h3>
 
-<a href="https://www.instagram.com/mani_kanta_lukka_18/">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=red"/>
-</a>
-<a href="https://www.facebook.com/mani.lukka99">
-<img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=red"/>
-</a>
-<a href="https://x.com/LukkaMani36851">
-<img src="https://img.shields.io/badge/Twitter/X-111111?style=for-the-badge&logo=x&logoColor=red"/>
-</a>
-<a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB">
-<img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=red"/>
-</a>
+<a href="https://www.instagram.com/mani_kanta_lukka_18/"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=red"/></a>
+<a href="https://www.facebook.com/mani.lukka99"><img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=red"/></a>
+<a href="https://x.com/LukkaMani36851"><img src="https://img.shields.io/badge/Twitter/X-111111?style=for-the-badge&logo=x&logoColor=red"/></a>
+<a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB"><img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=red"/></a>
 
-</div>
+<br/><br/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<!-- TECHNOLOGY -->
 
-# 🛠️ TECHNOLOGY ARSENAL
-
-### My Tools & Technologies
-
-</div>
-
-<table width="100%">
+<table width="100%" bgcolor="#0D1117">
 <tr>
-<td width="50%" align="center" valign="middle">
+<td align="center" bgcolor="#8B0000">
 
-### 🌐 Frontend Development
+<h1><font color="#FFFFFF">🛠️ TECHNOLOGY ARSENAL</font></h1>
+<font color="#FFFFFF">My Tools & Technologies</font>
 
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#161B22">
+
+<h3><font color="#FF3333">🌐 Frontend Development</font></h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
 
-</td>
-<td width="50%" align="center" valign="middle">
-
-### ⚙️ Backend Development
-
+<h3><font color="#FF3333">⚙️ Backend Development</font></h3>
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,firebase"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-### 💻 Programming Languages
-
+<h3><font color="#FF3333">💻 Programming Languages</font></h3>
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python"/>
 
-</td>
-<td width="50%" align="center" valign="middle">
-
-### 🔧 Tools & Platforms
-
+<h3><font color="#FF3333">🔧 Tools & Platforms</font></h3>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ALWAYS_LEARNING_NEW_TECHNOLOGIES-8B0000?style=for-the-badge"/>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/ALWAYS-LEARNING_NEW_TECHNOLOGIES-8B0000?style=for-the-badge"/>
-
-</div>
-
 ---
 
-<div align="center">
+<!-- CURRENTLY EXPLORING -->
 
-# 🎯 CURRENTLY EXPLORING
-
-### Growing Every Day. Building Every Day.
-
-</div>
-
-<table width="100%">
+<table width="100%" bgcolor="#0D1117">
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" align="center" bgcolor="#8B0000">
 
-### 🤖 Artificial Intelligence
+<h1><font color="#FFFFFF">🎯 CURRENTLY EXPLORING</font></h1>
+<font color="#FFFFFF">Growing Every Day. Building Every Day.</font>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" bgcolor="#161B22">
+
+<h3><font color="#FF3333">🤖 Artificial Intelligence</font></h3>
+
+<font color="#FFFFFF">
 
 - Gemini API Integrations
 - AI-Powered Applications
 - Intelligent Chatbots
 - Prompt Engineering
 
-</td>
-<td width="50%" valign="top">
+</font>
 
-### 🚀 Full Stack Engineering
+</td>
+<td width="50%" valign="top" bgcolor="#161B22">
+
+<h3><font color="#FF3333">🚀 Full Stack Engineering</font></h3>
+
+<font color="#FFFFFF">
 
 - MERN Stack Development
 - RESTful API Architecture
 - Authentication & Security
 - Database Management
 
+</font>
+
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#161B22">
 
-### 🧠 Problem Solving
+<h3><font color="#FF3333">🧠 Problem Solving</font></h3>
+
+<font color="#FFFFFF">
 
 - Advanced DSA
 - Competitive Programming
 - Algorithm Optimization
 - Data Structures
 
-</td>
-<td width="50%" valign="top">
+</font>
 
-### ☁️ Modern Technologies
+</td>
+<td width="50%" valign="top" bgcolor="#161B22">
+
+<h3><font color="#FF3333">☁️ Modern Technologies</font></h3>
+
+<font color="#FFFFFF">
 
 - System Design
 - Cloud Deployment
 - DevOps Fundamentals
 - CI/CD Pipelines
+
+</font>
 
 </td>
 </tr>
@@ -223,86 +207,106 @@
 
 ---
 
-<div align="center">
+<!-- DSA -->
 
-# 🧠 DSA & COMPETITIVE PROGRAMMING
+<table width="100%" bgcolor="#0D1117">
+<tr>
+<td align="center" bgcolor="#8B0000">
 
-### Consistency Over Perfection. Progress Every Day.
+<h1><font color="#FFFFFF">🧠 DSA & COMPETITIVE PROGRAMMING</font></h1>
+<font color="#FFFFFF">Consistency Over Perfection. Progress Every Day.</font>
+
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#161B22">
 
 <br/>
-
-<img src="https://leetcard.jacoblin.cool/Manikanta_2223?theme=dark&font=Nunito&ext=heatmap" width="75%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=22230902mani&theme=algolia&no-frame=true&row=1&column=5" width="100%"/>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/150%2B-PROBLEMS_SOLVED-8B0000?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 <br/><br/>
 
-### 💡 Areas of Practice
+<img src="https://leetcard.jacoblin.cool/Manikanta_2223?theme=dark&font=Nunito&ext=heatmap" width="90%"/>
 
-`Arrays` · `Strings` · `Linked Lists` · `Trees` · `Graphs` · `Recursion` · `Dynamic Programming`
+<br/><br/>
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=22230902mani&theme=algolia&no-frame=true&row=1&column=5" width="100%"/>
+
+<h3><font color="#FF3333">💡 Areas of Practice</font></h3>
+
+<font color="#FFFFFF">Arrays · Strings · Linked Lists · Trees · Graphs · Recursion · Dynamic Programming</font>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<!-- GITHUB ANALYTICS -->
 
-# 📊 GITHUB ANALYTICS
+<table width="100%" bgcolor="#0D1117">
+<tr>
+<td align="center" bgcolor="#8B0000">
 
-### My Coding Activity & Development Journey
+<h1><font color="#FFFFFF">📊 GITHUB ANALYTICS</font></h1>
+<font color="#FFFFFF">My Coding Activity & Development Journey</font>
+
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#161B22">
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=22230902mani&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22230902mani&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=22230902mani&show_icons=true&theme=github_dark&hide_border=true&bg_color=161B22&title_color=FF3333&icon_color=FF0000&text_color=FFFFFF&count_private=true" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=22230902mani&theme=vision-friendly-dark&hide_border=true" width="75%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22230902mani&layout=compact&theme=github_dark&hide_border=true&bg_color=161B22&title_color=FF3333&text_color=FFFFFF" width="75%"/>
 
 <br/><br/>
 
-### 📈 Contribution Activity
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=22230902mani&theme=dark&hide_border=true&background=161B22&ring=FF0000&fire=FF3333&currStreakLabel=FF3333" width="95%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=22230902mani&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%"/>
+<br/><br/>
 
-</div>
+<h3><font color="#FF3333">📈 Contribution Activity</font></h3>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=22230902mani&theme=github-dark&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FF3333" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<!-- FEATURED PROJECTS -->
 
-# 🚀 FEATURED PROJECTS
-
-### Turning Real-World Challenges Into Digital Solutions
-
-<img src="https://img.shields.io/badge/PROJECTS-FULL_STACK_&_AI-8B0000?style=for-the-badge"/>
-
-</div>
-
-<table width="100%">
+<table width="100%" bgcolor="#0D1117">
 <tr>
-<td width="50%" valign="top">
+<td align="center" bgcolor="#8B0000">
 
-<div align="center">
+<h1><font color="#FFFFFF">🚀 FEATURED PROJECTS</font></h1>
+<font color="#FFFFFF">Turning Real-World Challenges Into Digital Solutions</font>
 
-## 🤖 AI Inventory Management
+</td>
+</tr>
+<tr>
+<td bgcolor="#161B22">
+
+<h2><font color="#FF3333">🤖 01. AI Inventory Management System</font></h2>
 
 <img src="https://img.shields.io/badge/MERN_STACK-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI_POWERED-8B0000?style=for-the-badge"/>
 
-</div>
+<font color="#FFFFFF">
 
 An intelligent inventory platform with AI assistance, real-time stock management and analytics.
 
-### ✨ Key Features
+**✨ Key Features**
 
 - 📦 Real-Time Stock Tracking
 - 🤖 Gemini AI Chatbot
@@ -311,37 +315,29 @@ An intelligent inventory platform with AI assistance, real-time stock management
 - 📊 Analytics Dashboard
 - 📉 Low Stock Alerts
 
-### 🛠 Tech Stack
+**🛠 Tech Stack:** `React` `Node.js` `Express` `MongoDB`
 
-`React` `Node.js` `MongoDB` `Express`
+</font>
 
 <div align="center">
 
-<a href="https://inventory-management-system-sigma-eight.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=red"/>
-</a>
-
-<a href="https://github.com/22230902mani/AI-Inventory-Management-System">
-<img src="https://img.shields.io/badge/GITHUB_REPO-111111?style=for-the-badge&logo=github&logoColor=red"/>
-</a>
+<a href="https://inventory-management-system-sigma-eight.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=red"/></a>
+<a href="https://github.com/22230902mani/AI-Inventory-Management-System"><img src="https://img.shields.io/badge/GITHUB_REPO-111111?style=for-the-badge&logo=github&logoColor=red"/></a>
 
 </div>
 
-</td>
-<td width="50%" valign="top">
+<hr/>
 
-<div align="center">
-
-## 🏥 Healthcare Management
+<h2><font color="#FF3333">🏥 02. Healthcare Management System</font></h2>
 
 <img src="https://img.shields.io/badge/HEALTHCARE-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/WEB_APPLICATION-8B0000?style=for-the-badge"/>
 
-</div>
+<font color="#FFFFFF">
 
 A modern healthcare platform for managing appointments, patient information and billing.
 
-### ✨ Key Features
+**✨ Key Features**
 
 - 🩺 Appointment Booking
 - 👨‍⚕️ Doctor Management
@@ -350,40 +346,29 @@ A modern healthcare platform for managing appointments, patient information and 
 - 💳 Billing System
 - 🖥️ Admin Dashboard
 
-### 🛠 Tech Stack
+**🛠 Tech Stack:** `PHP` `MySQL` `JavaScript` `Bootstrap`
 
-`PHP` `MySQL` `JavaScript` `Bootstrap`
+</font>
 
 <div align="center">
 
-<a href="https://22230902mani.github.io/HEALTHCARE_MANAGEMENT-/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=red"/>
-</a>
-
-<a href="https://github.com/22230902mani/HEALTHCARE_MANAGEMENT">
-<img src="https://img.shields.io/badge/GITHUB_REPO-111111?style=for-the-badge&logo=github&logoColor=red"/>
-</a>
+<a href="https://22230902mani.github.io/HEALTHCARE_MANAGEMENT-/"><img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=red"/></a>
+<a href="https://github.com/22230902mani/HEALTHCARE_MANAGEMENT"><img src="https://img.shields.io/badge/GITHUB_REPO-111111?style=for-the-badge&logo=github&logoColor=red"/></a>
 
 </div>
 
-</td>
-</tr>
+<hr/>
 
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-## 🌱 Horticultural E-Commerce
+<h2><font color="#FF3333">🌱 03. Horticultural E-Commerce</font></h2>
 
 <img src="https://img.shields.io/badge/AGRICULTURE_TECH-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/E_COMMERCE-8B0000?style=for-the-badge"/>
 
-</div>
+<font color="#FFFFFF">
 
 A smart agriculture marketplace with crop insights, market information and storage guidance.
 
-### ✨ Key Features
+**✨ Key Features**
 
 - 🌾 Crop Market Insights
 - 📦 Storage Guidelines
@@ -391,37 +376,29 @@ A smart agriculture marketplace with crop insights, market information and stora
 - 🤖 Chatbot Integration
 - 📱 Responsive UI
 
-### 🛠 Tech Stack
+**🛠 Tech Stack:** `HTML` `CSS` `JavaScript` `PHP`
 
-`HTML` `CSS` `JavaScript` `PHP`
+</font>
 
 <div align="center">
 
-<a href="https://22230902mani.github.io/Horticultural-E-commerce/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=red"/>
-</a>
-
-<a href="https://github.com/22230902mani/Horticultural-E-commerce">
-<img src="https://img.shields.io/badge/GITHUB_REPO-111111?style=for-the-badge&logo=github&logoColor=red"/>
-</a>
+<a href="https://22230902mani.github.io/Horticultural-E-commerce/"><img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=red"/></a>
+<a href="https://github.com/22230902mani/Horticultural-E-commerce"><img src="https://img.shields.io/badge/GITHUB_REPO-111111?style=for-the-badge&logo=github&logoColor=red"/></a>
 
 </div>
 
-</td>
-<td width="50%" valign="top">
+<hr/>
 
-<div align="center">
-
-## 📚 Smart Learning Platform
+<h2><font color="#FF3333">📚 04. Smart Learning Platform</font></h2>
 
 <img src="https://img.shields.io/badge/EDTECH_PLATFORM-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/INTERACTIVE_LEARNING-8B0000?style=for-the-badge"/>
 
-</div>
+<font color="#FFFFFF">
 
 An interactive learning platform designed to deliver a modern and engaging digital learning experience.
 
-### ✨ Key Features
+**✨ Key Features**
 
 - 📖 Interactive Learning
 - 🎓 Course Management
@@ -429,19 +406,14 @@ An interactive learning platform designed to deliver a modern and engaging digit
 - 📱 Responsive Design
 - ⚡ Dynamic Experience
 
-### 🛠 Tech Stack
+**🛠 Tech Stack:** `React` `Node.js` `MongoDB`
 
-`React` `Node.js` `MongoDB`
+</font>
 
 <div align="center">
 
-<a href="https://smart-learning-platform-zeta.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=red"/>
-</a>
-
-<a href="https://github.com/22230902mani/Smart-Learning-Platform">
-<img src="https://img.shields.io/badge/GITHUB_REPO-111111?style=for-the-badge&logo=github&logoColor=red"/>
-</a>
+<a href="https://smart-learning-platform-zeta.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=red"/></a>
+<a href="https://github.com/22230902mani/Smart-Learning-Platform"><img src="https://img.shields.io/badge/GITHUB_REPO-111111?style=for-the-badge&logo=github&logoColor=red"/></a>
 
 </div>
 
@@ -451,52 +423,43 @@ An interactive learning platform designed to deliver a modern and engaging digit
 
 ---
 
-<div align="center">
+<!-- OTHER PROJECTS -->
 
-# 💼 MORE PROJECTS
-
-### More Ideas. More Innovation. More Creations.
-
-</div>
-
-<table width="100%">
+<table width="100%" bgcolor="#0D1117">
 <tr>
-<td width="50%" valign="middle">
+<td align="center" bgcolor="#8B0000">
 
-### 💼 AI Job Finder Portal
-
-AI-oriented job discovery platform.
-
-<a href="https://22230902mani.github.io/JOB_FINDER/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-8B0000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" valign="middle">
-
-### 🎵 Spotify Clone
-
-Music streaming inspired web interface.
-
-`HTML` `CSS` `JavaScript`
+<h1><font color="#FFFFFF">💼 MORE PROJECTS</font></h1>
+<font color="#FFFFFF">More Ideas. More Innovation. More Creations.</font>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="middle">
+<td bgcolor="#161B22">
 
-### 🎂 Birthday Wishes Website
+<h3><font color="#FF3333">💼 AI Job Finder Portal</font></h3>
+<font color="#FFFFFF">AI-oriented job discovery platform.</font>
 
-Interactive birthday celebration website.
+<a href="https://22230902mani.github.io/JOB_FINDER/"><img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-8B0000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<hr/>
+
+<h3><font color="#FF3333">🎵 Spotify Clone</font></h3>
+<font color="#FFFFFF">Music streaming inspired web interface.</font>
 
 `HTML` `CSS` `JavaScript`
 
-</td>
-<td width="50%" valign="middle">
+<hr/>
 
-### 🎲 Dice Game
+<h3><font color="#FF3333">🎂 Birthday Wishes Website</font></h3>
+<font color="#FFFFFF">Interactive birthday celebration website.</font>
 
-A C++ game implementing DSA concepts.
+`HTML` `CSS` `JavaScript`
+
+<hr/>
+
+<h3><font color="#FF3333">🎲 Dice Game</font></h3>
+<font color="#FFFFFF">A C++ game implementing DSA concepts.</font>
 
 `C++` `DSA`
 
@@ -506,27 +469,52 @@ A C++ game implementing DSA concepts.
 
 ---
 
-<div align="center">
+<!-- CONTRIBUTION SNAKE -->
 
-# 🐍 CONTRIBUTION SNAKE
+<table width="100%" bgcolor="#0D1117">
+<tr>
+<td align="center" bgcolor="#8B0000">
 
-### Every Contribution Represents Another Step Forward!
+<h1><font color="#FFFFFF">🐍 CONTRIBUTION SNAKE</font></h1>
+<font color="#FFFFFF">Every Contribution Represents Another Step Forward!</font>
+
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#161B22">
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/22230902mani/22230902mani/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
-</div>
+<br/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<!-- FUN FACT -->
 
-# ⚡ BEYOND THE CODE
+<table width="100%" bgcolor="#0D1117">
+<tr>
+<td align="center" bgcolor="#8B0000">
 
-### My Mindset
+<h1><font color="#FFFFFF">⚡ BEYOND THE CODE</font></h1>
+
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#161B22">
+
+<h3><font color="#FF3333">My Mindset</font></h3>
+
+<font color="#FFFFFF">
 
 I enjoy transforming real-world problems into scalable and user-friendly applications using modern technologies and AI integrations.
+
+</font>
 
 <br/>
 
@@ -536,9 +524,11 @@ I enjoy transforming real-world problems into scalable and user-friendly applica
 
 <br/><br/>
 
-### Explore. Experiment. Execute. Evolve.
+<h3><font color="#FFFFFF">Explore. Experiment. Execute. Evolve.</font></h3>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
