@@ -61,39 +61,27 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 <h1>🌐 CONNECT WITH ME</h1>
 <sub>Let's Connect, Collaborate & Create Something Amazing!</sub>
 </div>
-<table width="100%" bgcolor="#0D1117" style="width: 100%; border-collapse: collapse;">
+<table width="100%" style="width: 100%; border-collapse: collapse; text-align: center;">
 <tr>
-<td width="33%" valign="top" bgcolor="#161B22" align="center" style="padding: 25px 10px;">
-
+<td width="33%" valign="top" style="padding: 15px;">
 <h3>💼 Professional</h3>
-<div style="white-space: nowrap;">
-<a href="https://github.com/22230902mani"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35" height="35" alt="GitHub"/></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/manikanta-lukka"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:manilukka143@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="35" height="35" alt="Gmail"/></a>&nbsp;&nbsp;
-<a href="https://22230902mani.github.io/MY_PORTFOLIO/"><img src="https://cdn.simpleicons.org/firefox/FF5722" width="35" height="35" alt="Portfolio"/></a>
-</div>
-
+<a href="https://github.com/22230902mani"><img src="https://cdn.simpleicons.org/github/000000" width="32" height="32" alt="GitHub"/></a>&nbsp;
+<a href="https://linkedin.com/in/manikanta-lukka"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:manilukka143@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail"/></a>&nbsp;
+<a href="https://22230902mani.github.io/MY_PORTFOLIO/"><img src="https://cdn.simpleicons.org/firefox/FF5722" width="32" height="32" alt="Portfolio"/></a>
 </td>
-<td width="34%" valign="top" bgcolor="#21262D" align="center" style="padding: 25px 10px;">
-
+<td width="34%" valign="top" style="padding: 15px;">
 <h3>🧑‍💻 Coding</h3>
-<div style="white-space: nowrap;">
-<a href="https://leetcode.com/u/Manikanta_2223/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35" height="35" alt="LeetCode"/></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/manilukka143"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="35" height="35" alt="HackerRank"/></a>&nbsp;&nbsp;
-<a href="https://www.hackerearth.com/@manilukka143"><img src="https://cdn.simpleicons.org/hackerearth/323754" width="35" height="35" alt="HackerEarth"/></a>
-</div>
-
+<a href="https://leetcode.com/u/Manikanta_2223/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" height="32" alt="LeetCode"/></a>&nbsp;
+<a href="https://www.hackerrank.com/profile/manilukka143"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="32" height="32" alt="HackerRank"/></a>&nbsp;
+<a href="https://www.hackerearth.com/@manilukka143"><img src="https://cdn.simpleicons.org/hackerearth/323754" width="32" height="32" alt="HackerEarth"/></a>
 </td>
-<td width="33%" valign="top" bgcolor="#161B22" align="center" style="padding: 25px 10px;">
-
+<td width="33%" valign="top" style="padding: 15px;">
 <h3>📱 Social</h3>
-<div style="white-space: nowrap;">
-<a href="https://www.instagram.com/mani_kanta_lukka_18/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="35" height="35" alt="Instagram"/></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/mani.lukka99"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="35" height="35" alt="Facebook"/></a>&nbsp;&nbsp;
-<a href="https://x.com/LukkaMani36851"><img src="https://cdn.simpleicons.org/x/000000" width="35" height="35" alt="Twitter/X"/></a>&nbsp;&nbsp;
-<a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" width="35" height="35" alt="YouTube"/></a>
-</div>
-
+<a href="https://www.instagram.com/mani_kanta_lukka_18/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram"/></a>&nbsp;
+<a href="https://www.facebook.com/mani.lukka99"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="32" height="32" alt="Facebook"/></a>&nbsp;
+<a href="https://x.com/LukkaMani36851"><img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" alt="Twitter/X"/></a>&nbsp;
+<a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="32" height="32" alt="YouTube"/></a>
 </td>
 </tr>
 </table>
