@@ -242,45 +242,6 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 ---
 
 <div align="center">
-# 📊 GITHUB ANALYTICS
-<sub>My Coding Activity & Development Journey</sub>
-</div>
-<table width="100%" bgcolor="#0D1117">
-<tr>
-<td width="50%" bgcolor="#161B22" align="center">
-
-### 📈 GitHub Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=22230902mani&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width="100%"/>
-
-</td>
-<td width="50%" bgcolor="#21262D" align="center">
-
-### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22230902mani&layout=compact&theme=vision-friendly-dark&hide_border=true" width="100%"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" bgcolor="#161B22" align="center">
-
-### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=22230902mani&theme=vision-friendly-dark&hide_border=true" width="90%"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" bgcolor="#21262D" align="center">
-
-### 📉 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=22230902mani&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
 # 🚀 FEATURED PROJECTS
 <sub>Turning Real-World Challenges Into Digital Solutions</sub>
 </div>
