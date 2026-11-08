@@ -63,7 +63,7 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 </div>
 <table width="100%" style="width: 100%; border-collapse: collapse; text-align: center;">
 <tr>
-<td width="33%" valign="top" style="padding: 15px;">
+<td width="45%" valign="top" style="padding: 15px;">
 <h3>💼 Professional</h3>
 <a href="https://github.com/22230902mani"><img src="https://cdn.simpleicons.org/github/000000" width="32" height="32" alt="GitHub"/></a>&nbsp;
 <a href="https://linkedin.com/in/manikanta-lukka"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>&nbsp;
@@ -76,7 +76,7 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 <a href="https://www.hackerrank.com/profile/manilukka143"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="32" height="32" alt="HackerRank"/></a>&nbsp;
 <a href="https://www.hackerearth.com/@manilukka143"><img src="https://cdn.simpleicons.org/hackerearth/323754" width="32" height="32" alt="HackerEarth"/></a>
 </td>
-<td width="33%" valign="top" style="padding: 15px;">
+<td width="45%" valign="top" style="padding: 15px;">
 <h3>📱 Social</h3>
 <a href="https://www.instagram.com/mani_kanta_lukka_18/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram"/></a>&nbsp;
 <a href="https://www.facebook.com/mani.lukka99"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="32" height="32" alt="Facebook"/></a>&nbsp;
