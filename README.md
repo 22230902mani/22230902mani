@@ -70,7 +70,7 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 <a href="mailto:manilukka143@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail"/></a>&nbsp;
 <a href="https://22230902mani.github.io/MY_PORTFOLIO/"><img src="https://cdn.simpleicons.org/firefox/FF5722" width="32" height="32" alt="Portfolio"/></a>
 </td>
-<td width="34%" valign="top" style="padding: 15px;">
+<td width="45%" valign="top" style="padding: 15px;">
 <h3>🧑‍💻 Coding</h3>
 <a href="https://leetcode.com/u/Manikanta_2223/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" height="32" alt="LeetCode"/></a>&nbsp;
 <a href="https://www.hackerrank.com/profile/manilukka143"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="32" height="32" alt="HackerRank"/></a>&nbsp;
