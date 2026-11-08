@@ -89,16 +89,18 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 </td>
 
 
-<td width="40%" align="center" valign="middle" bgcolor="#161B22">
+
+<td width="45%" align="center" valign="middle" bgcolor="#161B22">
 
 <h3>📱 Social Media</h3>
 
-<a href="https://www.instagram.com/mani_kanta_lukka_18/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="26" alt="Instagram"/></a>&nbsp;
-<a href="https://www.facebook.com/mani.lukka99"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="26" alt="Facebook"/></a>&nbsp;
-<a href="https://x.com/LukkaMani36851"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="26" alt="X"/></a>&nbsp;
-<a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="26" alt="YouTube"/></a>
+<a href="https://www.instagram.com/mani_kanta_lukka_18/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="25" alt="Instagram"/></a>&nbsp;
+<a href="https://www.facebook.com/mani.lukka99"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="25" alt="Facebook"/></a>&nbsp;
+<a href="https://x.com/LukkaMani36851"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="25" alt="X"/></a>&nbsp;
+<a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="25" alt="YouTube"/></a>
 
 </td>
+
 
 
 </tr>
