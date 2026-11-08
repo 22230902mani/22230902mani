@@ -88,19 +88,18 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 </div>
 </td>
 
-<td width="31%" align="center" valign="middle" bgcolor="#161B22">
+
+<td width="40%" align="center" valign="middle" bgcolor="#161B22">
 
 <h3>📱 Social Media</h3>
 
-<div style="white-space: nowrap;">
+<a href="https://www.instagram.com/mani_kanta_lukka_18/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="26" alt="Instagram"/></a>&nbsp;
+<a href="https://www.facebook.com/mani.lukka99"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="26" alt="Facebook"/></a>&nbsp;
+<a href="https://x.com/LukkaMani36851"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="26" alt="X"/></a>&nbsp;
+<a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="26" alt="YouTube"/></a>
 
-<a href="https://www.instagram.com/mani_kanta_lukka_18/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" alt="Instagram"/></a>&nbsp;
-<a href="https://www.facebook.com/mani.lukka99"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" alt="Facebook"/></a>&nbsp;
-<a href="https://x.com/LukkaMani36851"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="30" alt="X"/></a>&nbsp;
-<a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" alt="YouTube"/></a>
-
-</div>
 </td>
+
 
 </tr>
 </table>
