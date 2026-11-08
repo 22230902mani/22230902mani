@@ -81,6 +81,7 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 
 <div style="white-space: nowrap;">
 
+
 <a href="https://leetcode.com/u/Manikanta_2223/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" alt="LeetCode"/></a>&nbsp;
 <a href="https://www.hackerrank.com/profile/manilukka143"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="30" alt="HackerRank"/></a>&nbsp;
 <a href="https://www.hackerearth.com/@manilukka143"><img src="https://cdn.simpleicons.org/hackerearth/FFFFFF" width="30" alt="HackerEarth"/></a>
@@ -90,15 +91,16 @@ Think creatively. Code intelligently. Build consistently. Never stop learning.
 
 
 
-<td width="45%" align="center" valign="middle" bgcolor="#161B22">
 
+<td width="38%" align="center" valign="middle" bgcolor="#161B22">
 <h3>📱 Social Media</h3>
+<div style="white-space: nowrap;">
 
 <a href="https://www.instagram.com/mani_kanta_lukka_18/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="25" alt="Instagram"/></a>&nbsp;
 <a href="https://www.facebook.com/mani.lukka99"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="25" alt="Facebook"/></a>&nbsp;
 <a href="https://x.com/LukkaMani36851"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="25" alt="X"/></a>&nbsp;
 <a href="https://youtube.com/@cinematic_138?si=I4u35OyF2rXZC7gB"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="25" alt="YouTube"/></a>
-
+</div>
 </td>
 
 
